@@ -18,11 +18,11 @@
 ### Open two terminals
 
 ###Start backend server on first terminal
--go to directory :todoList\myapp\backend
+-go to directory :\backend
 -run command "node index.js" on first terminal
 
 ###start fronend server on second terminal
--go to directory :todoList\myapp
+-Inside present directory Only
 -Inside directory run command "npm start" on second terminal
 
 ###frontend server will start on localhost:3000
